@@ -1,6 +1,7 @@
 {
   "entryPoints": [
-    "./src/"
+    "./src/AddFromFile.ts",
+    "./src/Watcher.ts"
   ],
   "out": "./docs"
 }
